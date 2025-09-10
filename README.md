@@ -1,4 +1,6 @@
 SQL Murder Mystery: An Investigative Data Project
+
+
 Overview
 This project showcases the practical application of SQL in a real-world problem-solving scenario. Using the sql-murder-mystery.db database, I acted as a data detective, leveraging structured queries and logical deduction to solve a complex crime. The objective was to identify the perpetrator and uncover the mastermind who hired them.
 Challenge & Approach
