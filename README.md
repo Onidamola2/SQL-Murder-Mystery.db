@@ -1,4 +1,4 @@
-SQL Murder Mystery: An Investigative Data Project
+**SQL Murder Mystery: An Investigative Data Project**
 
 
 Overview
